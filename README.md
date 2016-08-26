@@ -4,6 +4,8 @@
 
 [`lsof`](http://www.catonmat.net/blog/unix-utilities-lsof/) - files opened by processes
 
+[`nc`](http://www.catonmat.net/blog/unix-utilities-netcat/) - any networking debugging
+
 ## Collectd
 Is the `networking` module sending data? And to where?
 ```
