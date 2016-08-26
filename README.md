@@ -1,5 +1,9 @@
 # Collection of things that has shown itself to be handy
 
+## Unix Utilities
+
+[`lsof`](http://www.catonmat.net/blog/unix-utilities-lsof/) - files opened by processes
+
 ## Collectd
 Is the `networking` module sending data? And to where?
 ```
